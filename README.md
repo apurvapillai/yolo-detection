@@ -3,7 +3,7 @@
 A simple Streamlit web app that demonstrates object detection using the pre-trained **YOLO26** model from Ultralytics.  
 The app loads 3 random images from the COCO128 dataset and displays them with object detection results (before & after).
 
-screenshots/demo.png
+demo.png
 
 
 ## Features
