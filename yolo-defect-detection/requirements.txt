@@ -1,4 +1,5 @@
-﻿aioice==0.10.2
+opencv-python-headless>=4.10.0
+aioice==0.10.2
 aiortc==1.14.0
 altair==6.0.0
 attrs==25.4.0
@@ -70,4 +71,5 @@ ultralytics==8.4.5
 ultralytics-thop==2.0.18
 urllib3==2.6.3
 watchdog==6.0.0
+
 
