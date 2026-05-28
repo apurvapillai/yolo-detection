@@ -9,7 +9,7 @@ import random
 
 # ── CHANGE THIS PATH to where you unzipped COCO128 images ──────────────
 # (Usually inside the unzipped folder: coco128/images/train2017/*.jpg)
-DATASET_IMAGES_FOLDER = r"C:\Users\Apurva\OneDrive\Desktop\dataset\coco128\images\train2017"
+DATASET_IMAGES_FOLDER ="coco128/images/train2017"
 
 # If images are directly in the coco128 folder, use:
 # DATASET_IMAGES_FOLDER = r"C:\Users\Apurva\OneDrive\Desktop\dataset\coco128"
